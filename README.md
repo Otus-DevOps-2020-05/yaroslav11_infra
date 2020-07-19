@@ -7,3 +7,7 @@ ssh -i ~/.ssh/appuser -A -J appuser@130.193.48.244 appuser@10.130.0.34
 
 bastion_IP = 130.193.48.244
 someinternalhost_IP = 10.130.0.34
+
+# Homework 6
+testapp_IP = 130.193.49.78
+testapp_port = 9292
